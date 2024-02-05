@@ -1,0 +1,13 @@
+p {
+    border:1px solid;
+    width:90%;
+    float: left;
+    height:100;
+    line-height:35px;
+    background:#f6f5ef;
+    padding:10px;
+    margin-top:5px;
+    box-sizing: border-box;
+    word-break: keep-all;
+    padding-top:30px;
+}
